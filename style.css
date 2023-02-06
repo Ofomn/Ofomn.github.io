@@ -82,3 +82,10 @@ footer{
 img{
 max-width: 100px;
 }
+
+.helloWorld{max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
